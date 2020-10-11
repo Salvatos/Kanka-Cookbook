@@ -6,8 +6,4 @@ This wiki is a repository of references, guides, tips and examples intended as a
 *Help CSS enthusiasts become familiar with Kanka’s styles and discover new tricks.
 *Propose advanced tweaks and techniques to work around common problems and improve your own themes.
 
-If this is your first time here, we highly recommend a peek at the Hitchhiker’s Guide to the Cookbook to familiarize yourself with the way we organize information.
-
-Everyone is welcome to join this campaign and contribute. To do so, check out the Contributor’s Guide.
-
 **[Head to the wiki](https://github.com/Salvatos/Kanka-Cookbook/wiki)**
