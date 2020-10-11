@@ -10,4 +10,4 @@ If this is your first time here, we highly recommend a peek at the Hitchhiker’
 
 Everyone is welcome to join this campaign and contribute. To do so, check out the Contributor’s Guide.
 
-**[https://github.com/Salvatos/Kanka-Cookbook/wiki](Head to the wiki)**
+**[Head to the wiki](https://github.com/Salvatos/Kanka-Cookbook/wiki)**
