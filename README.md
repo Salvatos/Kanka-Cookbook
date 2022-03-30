@@ -7,3 +7,5 @@ This wiki is a repository of references, guides, tips and examples intended as a
 * Propose advanced tweaks and techniques to work around common problems and improve your own themes.
 
 **[Head to the wiki](https://github.com/Salvatos/Kanka-Cookbook/wiki)**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6BVTF4)
