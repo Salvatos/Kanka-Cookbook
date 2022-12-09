@@ -6,6 +6,8 @@ This wiki is a repository of references, guides, tips and examples intended as a
 * Help CSS enthusiasts become familiar with Kanka’s styles and discover new tricks.
 * Propose advanced tweaks and techniques to work around common problems and improve your own themes.
 
+Over time, it has also expanded to cover other types of plugins and external tools.
+
 **[Head to the wiki](https://github.com/Salvatos/Kanka-Cookbook/wiki)**
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6BVTF4)
+Nobody likes writing documentation, but somehow I keep doing it for free. Tips are always great for motivation! ;) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6BVTF4)
