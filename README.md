@@ -8,6 +8,6 @@ This wiki is a repository of references, guides, tips and examples intended as a
 
 Over time, it has also expanded to cover other types of plugins and external tools.
 
-**[Head to the wiki](https://github.com/Salvatos/Kanka-Cookbook/wiki)**
+**[Head to the wiki](https://salvatos.gitbook.io/kanka-cookbook/)**
 
 Nobody likes writing documentation, but somehow I keep doing it for free. Tips are always great for motivation! ;) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6BVTF4)
